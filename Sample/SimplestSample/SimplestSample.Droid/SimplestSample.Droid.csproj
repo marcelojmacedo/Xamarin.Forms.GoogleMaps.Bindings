@@ -18,7 +18,7 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
@@ -163,7 +163,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimplestSample\SimplestSample.csproj">
-      <Project>{fb682478-8aeb-479b-b5f4-391dd00a6ecf}</Project>
+      <Project>{9E27C9B9-0807-4E75-8F6B-B03875853C75}</Project>
       <Name>SimplestSample</Name>
     </ProjectReference>
   </ItemGroup>

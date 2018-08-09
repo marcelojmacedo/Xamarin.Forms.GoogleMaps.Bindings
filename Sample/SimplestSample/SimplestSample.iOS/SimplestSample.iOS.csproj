@@ -145,7 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimplestSample\SimplestSample.csproj">
-      <Project>{fb682478-8aeb-479b-b5f4-391dd00a6ecf}</Project>
+      <Project>{9E27C9B9-0807-4E75-8F6B-B03875853C75}</Project>
       <Name>SimplestSample</Name>
     </ProjectReference>
   </ItemGroup>
